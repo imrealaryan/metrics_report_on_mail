@@ -12,7 +12,7 @@ On AWS EC2 Instance
 <img width="355" height="64" alt="image" src="https://github.com/user-attachments/assets/313e83df-de58-4875-96cd-fd290ca47278" />
 
 How to generate Google App Passwords ?
-
 Link : https://youtu.be/MkLX85XU5rU?si=zauSpZ7sgfT-9zis
 
 Note : In both laptop and aws ec2 Instance environment variables must be set up.
+Note : In this repository email means "Gmail" i.e this code can send mail from "Gmail" only.
