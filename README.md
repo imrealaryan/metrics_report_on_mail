@@ -3,7 +3,7 @@ System and Amazon EC2 Instance CPU , RAM and DISK usage report using Python Scri
 
 Tutorial : https://youtu.be/n24WOQl14i8
 
-<img width="1280" height="720" alt="Metrics Report on GMAIL (1)" src="https://github.com/user-attachments/assets/b64d725c-0730-4d0c-bfd0-5bdf5ef0d677" />
+<img width="1280" height="720" alt="Metrics Report on GMAIL (2)" src="https://github.com/user-attachments/assets/56137c61-81d4-4c0a-a397-a48f8a690877" />
 
 How to generate Google App Passwords ?
 Link : https://youtu.be/MkLX85XU5rU?si=zauSpZ7sgfT-9zis
